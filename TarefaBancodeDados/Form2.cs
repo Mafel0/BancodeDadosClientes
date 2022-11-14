@@ -19,7 +19,7 @@ namespace TarefaBancodeDados
         "server=localhost;" + // local onde está o banco de dados
         "database=meuteste;" + //nome do banco de dados
         "uid=root;" + // usuário do banco de dados
-        "password=minhasenha;" + // senha do banco de dados
+        "password=suasenha;" + // senha do banco de dados
         "pwd="
 
         );
